@@ -5,5 +5,6 @@ def countdown (number)
   puts "#{number} SECONDS!"
   number -=1
 end
+end
 
 countdown(10)
